@@ -17,6 +17,6 @@
     "url": "https://github.com/amilajack/sqlectron-core-example/issues"
   },
   "dependencies": {
-    "sqlectron-core": "^7.7.0"
+    "sqlectron-core": "^8.0.0"
   }
 }
